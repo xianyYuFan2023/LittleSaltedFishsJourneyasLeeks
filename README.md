@@ -1,7 +1,9 @@
 # LittleSaltedFishsJourneyasLeeks
 As a new retail investor entering the A-share market, I will summarize my learning journey here, or rather, my journey as a "leek". Hahaha.
-2025年的时候,年少轻狂,不谙世事,做出来很多错误的决定.\t
+
+2025年的时候,年少轻狂,不谙世事,做出来很多错误的决定.
 或许是见识了世面,或许是被世面所打败.
+
 一直都认为自己缺少了一份少年意气,从初中到高中,然后到大学,规规矩矩,在我的印象中生气的次数都好像屈指可数,生活就好像一潭死水一样,或许是被父母保护的太好了?还是那可怜的自卑将我困住.我到现在也没有搞懂.
 我以为上班下班两点一线的生活会是我的所有,直到2025年的时候,遇见了想要共度余生的女孩,世界好像变得不一样了,哈哈,可能这就是谈恋爱后的通病吧.
 枯燥的生活怎么能困住我不羁的灵魂.
