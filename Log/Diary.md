@@ -10,11 +10,11 @@
 
 **K线图:**
 
-<img src="D:\LittleSaltedFishsJourneyasLeeks\assert\2026-01-08-01.jpg" alt="2026-01-08-01" style="zoom:200%;" />
+![2026-01-08-01](../assert/2026-01-08-01.jpg)
 
 **分时图:**
 
-<img src="D:\LittleSaltedFishsJourneyasLeeks\assert\2026-01-08-02.jpg" alt="2026-01-08-02" style="zoom:200%;" />
+![2026-01-08-02](../assert/2026-01-08-02.jpg)
 
 ## 个人情况分析:
 
