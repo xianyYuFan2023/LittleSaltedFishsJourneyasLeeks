@@ -13,5 +13,5 @@ As a new retail investor entering the A-share market, I will summarize my learni
 是贪婪的回响?还是勇气的战歌?  
 这个仓库是我梦开始的地方,也有可能是我归乡的坟墓.  
 年少时的我,青年的我,中年的我 给我一份祝福吧 在那里我会和他们博弈、厮杀.  
-现在我要在这里开始学徒之路咯......  
+现在我要在这里开始学徒之路......  
  
